@@ -18,6 +18,8 @@ the last commit to the master branch will be graded.
 Don't forget that you must also fill out an evaluation form in Moodle to consider the project submitted.
 
 ## Grading
+802-19-9493 Sebastián A. Ramos Flores sebastian.ramos4@upr.edu
+802-19-8982 Cristian L. Lopez Rivera cristian.lopez10@upr.edu
 You will only be graded for specs that were completed
 
 Any project that doesn't compile will get a 0
